@@ -1,6 +1,6 @@
 # 🌐 Web Scraping Financial Data Toolkit
 
-A comprehensive Python-based web scraping toolkit that extracts financial data using multiple approaches including Selenium, BeautifulSoup, and requests library, helping you gather and analyze financial metrics efficiently.
+A comprehensive Python-based web scraping toolkit that extracts financial data using multiple approaches, including Selenium, BeautifulSoup, and the requests library, designed to help gather and analyze financial metrics efficiently. The web scraping was specifically performed using data from the link [CypherHunter](https://www.cypherhunter.com/en/discover/), enabling the extraction of relevant financial information directly from the website.
 
 <div align="center">
 
